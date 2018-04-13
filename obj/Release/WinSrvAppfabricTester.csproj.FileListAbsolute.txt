@@ -1,0 +1,12 @@
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\WinSrvAppfabricTester.exe.config
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\WinSrvAppfabricTester.exe
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\WinSrvAppfabricTester.pdb
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\Microsoft.ApplicationServer.Caching.Client.dll
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\Microsoft.ApplicationServer.Caching.Core.dll
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\Microsoft.WindowsFabric.Data.Common.dll
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\bin\Release\Microsoft.WindowsFabric.Common.dll
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\obj\Release\WinSrvAppfabricTester.frmWinSrvAppfabricTester.resources
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\obj\Release\WinSrvAppfabricTester.Properties.Resources.resources
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\obj\Release\WinSrvAppfabricTester.csproj.GenerateResource.Cache
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\obj\Release\WinSrvAppfabricTester.exe
+C:\tools\WinSrvAppfabricTester\WinSrvAppfabricTester\obj\Release\WinSrvAppfabricTester.pdb
